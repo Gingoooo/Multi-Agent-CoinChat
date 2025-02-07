@@ -1,0 +1,11 @@
+# Python
+/__pycache__/*
+
+# 系統檔案
+.DS_Store
+
+# 資料庫
+*.db
+
+# 環境變數
+.env
